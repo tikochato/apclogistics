@@ -3927,16 +3927,6 @@ dl.alt dt {
 	float: left;
 }
 
-.texto-servicios {
-	margin: 2em 0 2em 0em;
-}
-
-.ul-servicios {
-	list-style: disc;
-	margin: 0 0 0em 1em;
-	padding-left: 0em;
-}
-
 .tabla-clientes {
 	text-align: center;
 }
