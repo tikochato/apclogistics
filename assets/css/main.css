@@ -3928,12 +3928,12 @@ dl.alt dt {
 }
 
 .texto-servicios {
-	margin: 2em 0 2em -2em;
+	margin: 2em 0 2em 0em;
 }
 
 .ul-servicios {
 	list-style: disc;
-	margin: 0 0 -1em -2.5em;
+	margin: 0 0 0em 1em;
 	padding-left: 0em;
 }
 
